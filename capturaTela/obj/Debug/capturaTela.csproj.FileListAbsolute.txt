@@ -1,0 +1,38 @@
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\bin\Debug\capturaTela.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\bin\Debug\capturaTela.exe
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\bin\Debug\capturaTela.pdb
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\obj\Debug\capturaTela.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\obj\Debug\capturaTela.Form1.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\obj\Debug\capturaTela.Properties.Resources.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\obj\Debug\capturaTela.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\obj\Debug\capturaTela.exe
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\capturaTela\capturaTela\obj\Debug\capturaTela.pdb
+C:\projetosCsharp\capturaTela\capturaTela\bin\Debug\capturaTela.exe.config
+C:\projetosCsharp\capturaTela\capturaTela\obj\Debug\capturaTela.exe
+C:\projetosCsharp\capturaTela\capturaTela\obj\Debug\capturaTela.pdb
+C:\projetosCsharp\capturaTela\capturaTela\bin\Debug\capturaTela.exe
+C:\projetosCsharp\capturaTela\capturaTela\bin\Debug\capturaTela.pdb
+C:\projetosCsharp\capturaTela\capturaTela\obj\Debug\capturaTela.csprojResolveAssemblyReference.cache
+C:\projetosCsharp\capturaTela\capturaTela\obj\Debug\capturaTela.Form1.resources
+C:\projetosCsharp\capturaTela\capturaTela\obj\Debug\capturaTela.Properties.Resources.resources
+C:\projetosCsharp\capturaTela\capturaTela\obj\Debug\capturaTela.csproj.GenerateResource.Cache
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\bin\Debug\capturaTela.exe.config
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\bin\Debug\capturaTela.exe
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\bin\Debug\capturaTela.pdb
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.csprojAssemblyReference.cache
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.Form1.resources
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.Properties.Resources.resources
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.csproj.GenerateResource.cache
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.csproj.CoreCompileInputs.cache
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.exe
+C:\Users\1513 MX5-7\source\repos\capturaTela\capturaTela\obj\Debug\capturaTela.pdb
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.csprojAssemblyReference.cache
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.Form1.resources
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.Properties.Resources.resources
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.csproj.GenerateResource.cache
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.csproj.CoreCompileInputs.cache
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.exe
+C:\myHD\avell\repos\capturaTela\capturaTela\obj\Debug\capturaTela.pdb
+C:\myHD\avell\repos\capturaTela\capturaTela\bin\Debug\capturaTela.exe.config
+C:\myHD\avell\repos\capturaTela\capturaTela\bin\Debug\capturaTela.exe
+C:\myHD\avell\repos\capturaTela\capturaTela\bin\Debug\capturaTela.pdb
